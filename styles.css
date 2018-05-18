@@ -55,9 +55,12 @@
 
 }
 
+img{
+    max-width: 90%;
+}
 
 .figure{
-    width:70%;
+    width:85%;
     height:auto;
     padding-top: 1%;
     padding-bottom: 1%;
